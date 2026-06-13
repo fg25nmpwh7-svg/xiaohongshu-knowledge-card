@@ -1,0 +1,23 @@
+[
+  {"query": "今天上午学了few-shot和cot，下午又看了下agent和saas的区别，帮我把这几个点做成小红书卡片发出去", "should_trigger": true},
+  {"query": "我想把这周学的prompt engineering整理成那种一张张的图文笔记，发小红书用的", "should_trigger": true},
+  {"query": "做5张知识卡片，主题是AI评测和MECE结构化思维，要能直接发布的那种", "should_trigger": true},
+  {"query": "把我这些学习领悟做成图，1080x1440的，苹果发布会那种黑底极简科技风", "should_trigger": true},
+  {"query": "帮我写条小红书文案，配图是我做的几张AI知识卡，标题正文话题标签都要", "should_trigger": true},
+  {"query": "我整理了今天的学习笔记，能不能变成几张好看的、能让人收藏的卡片图", "should_trigger": true},
+  {"query": "knowledge card做一套，关于大模型的几个反直觉的点，要强观点不要罗列知识", "should_trigger": true},
+  {"query": "想在小红书发个图文，把'agent不是saas新功能而是替代关系'这个观点做成卡片", "should_trigger": true},
+  {"query": "把我今天学AI的心得做成图发小红书，要那种有洞察的强观点风格，别像流水账", "should_trigger": true},
+  {"query": "做几张能传播的AI观点卡片，封面标题要有认知冲突感", "should_trigger": true},
+
+  {"query": "帮我在figma里画一个外卖app的登录页和首页原型", "should_trigger": false},
+  {"query": "把这份产品PRD做成一套PPT给我，要给老板汇报用", "should_trigger": false},
+  {"query": "解释一下few-shot和chain of thought到底有什么区别，原理是啥", "should_trigger": false},
+  {"query": "我要发一条小红书，纯文字的，记录一下今天加班到十点的心情", "should_trigger": false},
+  {"query": "把桌面这张海报图导出成png，尺寸1080x1440就行", "should_trigger": false},
+  {"query": "帮我做一份AI编程工具的竞品分析表格，对比cursor、copilot这些", "should_trigger": false},
+  {"query": "给我公众号那篇讲大模型的文章配几张文章内插图", "should_trigger": false},
+  {"query": "把这段AI学习笔记整理成结构清晰的markdown文档存到本地", "should_trigger": false},
+  {"query": "帮我设计一个小红书AI赛道账号的三个月运营涨粉策略", "should_trigger": false},
+  {"query": "帮我看看这张小红书封面图的配色和留白做得好不好，提点修改意见", "should_trigger": false}
+]
